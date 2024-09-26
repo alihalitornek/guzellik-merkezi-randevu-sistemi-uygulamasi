@@ -1,0 +1,64 @@
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\proje v1.exe.config
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\proje v1.exe
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\proje v1.pdb
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.csproj.AssemblyReference.cache
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.Form1.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.hizmetkontrol.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.musterikontrol.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.personelkontrol.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.Properties.Resources.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje_v1.randevukontrol.resources
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.csproj.GenerateResource.cache
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.csproj.CoreCompileInputs.cache
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.exe
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.pdb
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ExcelDataReader.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ExcelDataReader.pdb
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ExcelDataReader.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\obj\Debug\proje v1.csproj.CopyComplete
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ClosedXML.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\Irony.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Buffers.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.IO.Packaging.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Memory.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\XLParser.dll
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ClosedXML.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Buffers.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.IO.Packaging.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Memory.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\technopc\source\repos\proje v1\proje v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\proje v1.exe.config
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\proje v1.exe
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\proje v1.pdb
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\System.Buffers.dll
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\ClosedXML.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\ExcelDataReader.pdb
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\ExcelDataReader.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\System.IO.Packaging.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\System.Memory.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.csproj.AssemblyReference.cache
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.Form1.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.hizmetkontrol.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.musterikontrol.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.personelkontrol.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.Properties.Resources.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje_v1.randevukontrol.resources
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.csproj.GenerateResource.cache
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.csproj.CoreCompileInputs.cache
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.csproj.CopyComplete
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.exe
+C:\Users\technopc\Desktop\ali halit örnek proje\proje v1\proje v1\obj\Debug\proje v1.pdb
